@@ -24,8 +24,4 @@
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matt-code-d&show_icons=true&locale=en&layout=compact" alt="matt-code-d" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matt-code-d&show_icons=true&locale=en" alt="matt-code-d" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matt-code-d&" alt="matt-code-d" /></p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matt-code-d" alt="matt-code-d" /></a> </p>
