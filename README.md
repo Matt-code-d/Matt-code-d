@@ -26,13 +26,13 @@ I focus a lot on optimization and usability, I develop fast and quick solutions 
 <br/>  
 
 <div align="left">
-            <a href="https://paypal.me/https://paypal.me/https://paypal.me/msdesignit?country.x=IT&locale.x=it_IT" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/msdesignit?country.x=IT&locale.x=it_IT" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="left"
                 />
             </a>
-            <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mattsantorodev" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/mattsantorodev" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="left"
