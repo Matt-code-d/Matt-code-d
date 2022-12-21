@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [matteosantoro.dev](matteosantoro.dev)
 
 - 📫 How to reach me **matteo@blasterfoundry.com**
-
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matteo-santoro-bf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matteo-santoro-bf" height="30" width="40" /></a>
