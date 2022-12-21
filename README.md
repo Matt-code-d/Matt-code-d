@@ -70,7 +70,7 @@ I focus a lot on optimization and usability, I develop fast and quick solutions 
 
 
 ## Languages and Tools  
-<div align="center">  
+<div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
@@ -122,7 +122,7 @@ I focus a lot on optimization and usability, I develop fast and quick solutions 
 
 
 ### Other  
-<div align="center">  
+<div align="left">  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="25" /></a>  
@@ -134,7 +134,7 @@ I focus a lot on optimization and usability, I develop fast and quick solutions 
 
 
 ### Game Engine  
-<div align="center">  
+<div align="left">  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" /></a>  
 <a href="https://construct.net/" target="_blank"><img style="margin: 10px" src="https://construct-static.com/images/v1040/uploads/articleuploadobject/0/images/2634/c3logo-lightbg.svg" alt="Construct3" height="25" /></a>  
 </div>  
