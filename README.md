@@ -51,7 +51,7 @@ I focus a lot on optimization and usability, I develop fast and quick solutions 
 - **🌱 I’m currently learning 11ty, Swift, Unity, Godot**  
   
 
-- 👨‍💻 All of my projects are available at matteosantoro.dev  
+- 👨‍💻 All of my projects are available at [matteosantoro.dev](https://matteosantoro.dev) 
   
 
 - 📫 How to reach me matteo@blasterfoundry.com  
