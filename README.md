@@ -48,7 +48,7 @@ I focus a lot on optimization and usability, I develop fast and quick solutions 
 - 🔭 I’m currently working on [My personal website](https://matteosantoro.dev)  
   
 
-- **🌱 I’m currently learning 11ty, Swift, Unity, Godot**  
+- 🌱 I’m currently learning **11ty, Swift, Unity, Godot**  
   
 
 - 👨‍💻 All of my projects are available at [matteosantoro.dev](https://matteosantoro.dev) 
