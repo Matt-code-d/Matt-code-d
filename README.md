@@ -38,7 +38,12 @@ I focus a lot on optimization and usability, I develop fast and quick solutions 
                     align="left"
                 />
             </a>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7X1O86)
+  <a href="[https://www.buymeacoffee.com/mattsantorodev](https://ko-fi.com/A0A7X1O86)" target="_blank" style="display: inline-block;">
+                <img
+                    src="[https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee](https://ko-fi.com/img/githubbutton_sm.svg)" 
+                    align="left"
+                />
+            </a>
 </div>  
 
 <br/>  
