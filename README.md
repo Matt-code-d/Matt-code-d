@@ -143,6 +143,6 @@ I focus a lot on optimization and usability, I develop fast and quick solutions 
 
 
 ## What am i listening to 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31dnrf5x2io7jscwij77xtwdgya4&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dnrf5x2io7jscwij77xtwdgya4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31dnrf5x2io7jscwij77xtwdgya4&redirect=true)
 
 <br/>  
