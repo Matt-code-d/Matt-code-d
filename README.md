@@ -143,6 +143,6 @@ I focus a lot on optimization and usability, I develop fast and quick solutions 
 
 
 ## What am i listening to 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dnrf5x2io7jscwij77xtwdgya4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31dnrf5x2io7jscwij77xtwdgya4&redirect=true)
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dnrf5x2io7jscwij77xtwdgya4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
 
 <br/>  
