@@ -1,4 +1,4 @@
-## Hey 👋, I'm Matteo Santoro!  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Matteo%20Santoro%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=matteosantoro.dev&descSize=20&descAlignY=55&descAlign=50)
   
 
 <a href="https://github.com/Matt-code-d" target="_blank">
@@ -145,4 +145,6 @@ I focus a lot on optimization and usability, I develop fast and quick solutions 
 ## What am i listening to 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dnrf5x2io7jscwij77xtwdgya4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
-<br/>  
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
