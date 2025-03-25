@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Matteo%20Santoro%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=matteosantoro.dev&descSize=20&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Matteo%20Santoro%20%F0%9F%91%8B&fontSize=50&animation=scaleIn&fontAlignY=35&desc=matteosantoro.dev&descSize=20&descAlignY=55&descAlign=50)
   
 
 <a href="https://github.com/Matt-code-d" target="_blank">
