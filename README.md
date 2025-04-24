@@ -54,7 +54,7 @@ I focus a lot on optimization and usability, I develop fast and quick solutions 
 - 👨‍💻 All of my projects are available at [matteosantoro.dev](https://matteosantoro.dev) 
   
 
-- 📫 How to reach me matteo@blasterfoundry.com  
+- 📫 How to reach me info@matteosantoro.dev  
 
 
 </td><td valign="top" width="50%">
