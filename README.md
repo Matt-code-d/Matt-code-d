@@ -45,7 +45,7 @@ I focus a lot on optimization and usability, I develop fast and quick solutions 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [My personal website](https://matteosantoro.dev)  
+- 🔭 I’m currently working on [My personal blog](https://matteosantoro.dev/blog)  
   
 
 - 🌱 I’m currently learning **11ty, Swift, Unity, Godot**  
