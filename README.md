@@ -47,7 +47,7 @@ I’m a versatile Full Stack Developer 🌐, Game Developer 🎮, and Designer �
 
 ### 🛠️ My Projects
 <a href="https://kaizen-write.vercel.app/" target="_blank"> <img alt="Kaizen" src="https://i.imgur.com/qAgFSpE.png" height="68" align="left"> </a>
-<a href="https://kana-quest-vue.vercel.app/" target="_blank"> <img alt="sheetsdatabase" src="https://i.imgur.com/jVkirqP.png"  height="68" align="left"> </a>
+<a href="https://kana-quest-vue.vercel.app/" target="_blank"> <img alt="sheetsdatabase" src="https://i.imgur.com/wSOPGkC.png"  height="68" align="left"> </a>
 <a href="https://wakaruyo.vercel.app/" target="_blank"> <img alt="readmeicons" src="https://i.imgur.com/OIogn9j.png" height="68" align="left"> </a>
 <a href="https://watermark-studio-mu.vercel.app/" target="_blank"> <img alt="passwordkeeper" src="https://i.imgur.com/iI0eBoH.png" height="68" align="left"> </a>
 <br/>
