@@ -31,7 +31,6 @@ I’m a versatile Full Stack Developer 🌐, Game Developer 🎮, and Designer �
 - 🎬 I love movies and series—follow me on [Trakt](https://trakt.tv/users/matteo-santoro-dev) to see what I’m watching!
 - 🎮 I love video games, cars, and music
 - 📚 &nbsp; When I am free, I read manga.
-<br>
 <hr/>
 
 📕 &nbsp; **Top Reads**
