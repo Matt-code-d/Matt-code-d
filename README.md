@@ -18,7 +18,7 @@ I’m a versatile Full Stack Developer 🌐, Game Developer 🎮, and Designer �
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dnrf5x2io7jscwij77xtwdgya4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" width="360px"/>
   
 ### 🧐 More About Me:
 
@@ -46,18 +46,11 @@ I’m a versatile Full Stack Developer 🌐, Game Developer 🎮, and Designer �
 <hr/>
 
 ### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+<a href="https://kaizen-write.vercel.app/" target="_blank"> <img alt="Kaizen" src="https://i.imgur.com/qAgFSpE.png" height="68" align="left"> </a>
+<a href="https://kana-quest-vue.vercel.app/" target="_blank"> <img alt="sheetsdatabase" src="https://i.imgur.com/jVkirqP.png"  height="68" align="left"> </a>
+<a href="https://wakaruyo.vercel.app/" target="_blank"> <img alt="readmeicons" src="https://i.imgur.com/OIogn9j.png" height="68" align="left"> </a>
+<a href="https://watermark-studio-mu.vercel.app/" target="_blank"> <img alt="passwordkeeper" src="https://i.imgur.com/iI0eBoH.png" height="68" align="left"> </a>
 <br/>
-<hr/>
 
-## What am i listening to 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dnrf5x2io7jscwij77xtwdgya4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
-
-<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
