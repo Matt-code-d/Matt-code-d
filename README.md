@@ -23,11 +23,11 @@ I’m a versatile Full Stack Developer 🌐, Game Developer 🎮, and Designer �
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **[My personal Blog](https://matteosantoro.dev/blog)**
-- 🌱 &nbsp; I’m currently learning **11ty, Swift, Unity, Godotéé; 
+- 🌱 &nbsp; I’m currently learning **11ty, Swift, Unity, Godot; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Matt-code-d?tab=repositories)
-- 🌐 &nbsp; My official website is **[matteosantoro.dev](https://matteosantoro.dev/)**
+- 🌐 &nbsp; Check out all my skills on my official website: **[matteosantoro.dev](https://matteosantoro.dev/)**
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to email me at [LinkedIn](mailto:info@matteosantoro.dev)
+- 📫 &nbsp; Reach out via email: [info@matteosantoro.dev](mailto:info@matteosantoro.dev)
 - 🎬 I love movies and series—follow me on [Trakt](https://trakt.tv/users/matteo-santoro-dev) to see what I’m watching!
 - 🎮 I love video games, cars, and music
 - 📚 &nbsp; When I am free, I read manga.
