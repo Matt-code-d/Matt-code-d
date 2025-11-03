@@ -2,17 +2,8 @@
   
 ![Profile views counter](https://komarev.com/ghpvc/?username=Matt-code-d&&style=flat-square)  
 
-<a href="https://github.com/Matt-code-d" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/matteo-santoro-bf" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/matteosantorod" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matteosantorod) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-santoro-bf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/matteosant_dev) 
 
-<br/>  
 <br/>
 I’m a versatile Full Stack Developer 🌐, Game Developer 🎮, and Designer 🎨. I love exploring new tech stacks 💻 and building exciting, innovative projects 🛠️ that push the boundaries of what’s possible.
 <br/>
@@ -31,6 +22,9 @@ I’m a versatile Full Stack Developer 🌐, Game Developer 🎮, and Designer �
 - 🎬 I love movies and series—follow me on [Trakt](https://trakt.tv/users/matteo-santoro-dev) to see what I’m watching!
 - 🎮 I love video games, cars, and music
 - 📚 &nbsp; When I am free, I read manga.
+
+### 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/msdesignit) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/matteosantorodev) 
 <hr/>
 
 📕 &nbsp; **Top Reads**
