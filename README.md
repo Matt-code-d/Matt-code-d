@@ -13,7 +13,7 @@ I’m a versatile Full Stack Developer 🌐, Game Developer 🎮, and Designer �
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **[My personal Blog](https://matteosantoro.dev/blog)**
+- 🔭 &nbsp; I’m currently working on **my new business website**: [matteosantoro.dev](https://matteosantoro.dev)
 - 🌱 &nbsp; I’m currently learning **11ty, Swift, Unity, Godot**; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Matt-code-d?tab=repositories)
 - 🌐 &nbsp; Check out all my work on my official website: **[matteosantoro.dev](https://matteosantoro.dev/)**
