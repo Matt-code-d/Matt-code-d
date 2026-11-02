@@ -40,10 +40,10 @@ I’m a versatile Full Stack Developer 🌐, Game Developer 🎮, and Designer �
 <hr/>
 
 ### 🛠️ My Projects
-<a href="https://github.com/Matt-code-d/Saw2Recomp" target="_blank"> <img alt="Saw 2 - Xbox 360 PC Recomp" src="https://i.imgur.com/ZPCPLNz.png" height="68" align="left"> </a>
-<a href="https://github.com/Matt-code-d/TheWarriorsRecomp" target="_blank"> <img alt="The Warriors - Xbox PC Recomp" src="https://i.imgur.com/1dE11ia.png" height="68" align="left"> </a>
-<a href="https://kana-quest-vue.vercel.app/" target="_blank"> <img alt="sheetsdatabase" src="https://i.imgur.com/wSOPGkC.png"  height="68" align="left"> </a>
-<a href="https://wakaruyo.vercel.app/" target="_blank"> <img alt="readmeicons" src="https://i.imgur.com/OIogn9j.png" height="68" align="left"> </a>
+<a href="https://github.com/Matt-code-d/Saw2Recomp" target="_blank"> <img alt="Saw 2 - Xbox 360 PC Recomp" src="https://i.imgur.com/ZPCPLNz.png" height="75" align="left"> </a>
+<a href="https://github.com/Matt-code-d/TheWarriorsRecomp" target="_blank"> <img alt="The Warriors - Xbox PC Recomp" src="https://i.imgur.com/1dE11ia.png" height="75" align="left"> </a>
+<a href="https://kana-quest-vue.vercel.app/" target="_blank"> <img alt="sheetsdatabase" src="https://i.imgur.com/wSOPGkC.png"  height="75" align="left"> </a>
+<a href="https://wakaruyo.vercel.app/" target="_blank"> <img alt="readmeicons" src="https://i.imgur.com/OIogn9j.png" height="75" align="left"> </a>
 <br/>
 
 
